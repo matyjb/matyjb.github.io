@@ -1,0 +1,63 @@
+# section information
+section:
+  name: About
+  enable: true
+  weight: 1
+  showOnNavbar: true
+
+# your designation
+designation: Student IT
+# your company information
+company:
+  name: SGGW.
+  url: "https://www.sggw.pl"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'Jestem studentem pierwszego roku studiów magisterskich na kierunku Informatyka. Byłem wiceprzewodniczącym koła naukowego Silver.NET gdzie razem z innymi studentami prowadziliśmy zajęcia z różnych technologii takich jak Flutter, React oraz Unity. Obecnie szukam pracy oraz rozpoczynam pisanie pracy magisterskiej.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "matyjasiakbartosz@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/matyjb"
+
+# - name: Stackoverflow
+#   icon: "fab fa-stack-overflow"
+#   url: "#"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/bartosz-matyjasiak-181472168/"
+
+# - name: Twitter
+#   icon: "fab fa-twitter"
+#   url: "#"
+
+# - name: Facebook
+#   icon: "fab fa-facebook"
+#   url: "#"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported color: blue, yellow, pink, green
+# softSkills:
+# - name: Leadership
+#   percentage: 85
+#   color: blue
+# - name: Team Work
+#   percentage: 90
+#   color: yellow
+# - name: Communication
+#   percentage: 85
+#   color: pink
+# - name: Hard Working
+#   percentage: 85
+#   color: green
