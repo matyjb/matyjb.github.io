@@ -1,6 +1,7 @@
 # section information
 section:
   name: Projects
+  namepl: Projekty
   enable: true
   weight: 4
   showOnNavbar: true

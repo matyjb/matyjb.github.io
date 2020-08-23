@@ -36,9 +36,10 @@ params:
   # Provide logos for your site. The inverted logo will be used in the initial
   # transparent navbar and the main logo will be used in the non-transparent navbar.
   # It will be default to the theme logos if not provided.
-  # logo:
-  #   main: /assets/images/main-logo.png
-  #   inverted: /assets/images/inverted-logo.png
+  logo:
+    main: images/logos/emblem.png
+    # inverted: images/inverted-logo.png
+    inverted: images/logos/emblem_bw_t.png
 
   # GitHub repo URL of your site
   gitRepo: https://github.com/matyjb/matyjb.github.io
@@ -72,6 +73,6 @@ params:
       # phone: "+0123456789"
     # a summary of what you do
     summary:
-    - I am a Developer
-    - I work with Go
-    - I love to work with some fun projects
+    - Jestem programistą
+    - Lubię technologie webowe
+    - Lubię wyzwania

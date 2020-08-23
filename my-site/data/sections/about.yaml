@@ -1,6 +1,7 @@
 # section information
 section:
   name: About
+  namepl: O mnie
   enable: true
   weight: 1
   showOnNavbar: true

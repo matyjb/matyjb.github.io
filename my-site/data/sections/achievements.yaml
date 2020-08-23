@@ -1,6 +1,7 @@
 # section information
 section:
   name: Achievements 
+  namepl: Osiągnięcia
   enable: true
   weight: 6
   showOnNavbar: true
