@@ -1,0 +1,49 @@
+# section information
+section:
+  name: Experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  hideTitle: true
+
+# Your experiences
+experiences:
+- company:
+    name: Szkoła Główna Gospodarstwa Wiejskiego
+    url: "https://www.sggw.pl"
+    location: Warszawa
+    overview: Uczelnia wyższa
+  positions:
+  - designation: Studia magisterskie na kierunku Informatyka
+    start: Luty 2020
+    # end: Styczeń 2020
+    responsibilities:
+    - Nauka
+
+- company:
+    name: Koło Naukowe Informatyków Silver.NET
+    url: "http://silver.sggw.pl/"
+    location: Warszawa
+    # company overview
+    overview: Organizacja studencka z celem poszerzania zainsteresowań studentów informatyki.
+  positions:
+  - designation: Wiceprzewodniczący
+    start: Październik 2018
+    end: Grudzień 2019
+    responsibilities:
+    - Przybliżanie studentom technologii takich jak Flutter, React czy ASP.NET.
+    - Prowadzenie warsztatów z React oraz Flutter.
+    - Współstworzenie oraz wspieranie aplikacji Plan WZIM po jej premierze.
+
+- company:
+    name: Szkoła Główna Gospodarstwa Wiejskiego
+    url: "https://www.sggw.pl"
+    location: Warszawa
+    overview: Uczelnia wyższa
+  positions:
+  - designation: Studia inżynierskie na kierunku Informatyka
+    start: Październik 2016
+    end: Styczeń 2020
+    responsibilities:
+    - Nauka
