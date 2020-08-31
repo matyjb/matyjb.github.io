@@ -19,13 +19,42 @@ section:
 # - name: Hobby
 #   filter: "hobby"
 
+# matyjb/SilverTimetable2
+# matyjb/PolyJam-2020
+# matyjb/GK-3D
+# matyjb/opsu
+# matyjb/graphproject
+# matyjb/sudoku-flutter
+# matyjb/CellularAutomaton
+# matyjb/Lsystem
+# matyjb/chip-8-emulator - matyjb/gameboy-emulator
+# matyjb/BrainfuckInterpreter
+
 # your projects
 projects:
-- name: Kubernetes
-  logo: images/projects/kubernetes.png
-  role: Contributor
-  timeline: "March 2018 - Present"
-  repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Production-Grade Container Scheduling and Management.
-  tags: ["professional", "kubernetes", "cloud"]
+- name: Plan WZIM
+  logo: images/techlogos/silverplan48.png
+  role: Współtwórca
+  timeline: "Luty 2018 - Dziś"
+  # repo: "" # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: https://play.google.com/store/apps/details?id=com.silvernet.silvertimetable&hl=pl  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Aplikacja przeznaczona dla studentów oraz wykładowców Wydziału Zastosowań Informatyki i Matematyki na SGGW. Ukazuje aktualny plan zajęć dla studenta lub wykładowcy zależnie od filtrów. Wykonana w React-Native
+  tags: ["planer", "React-Native"]
+
+- name: Keep Repairing and Nobody Sinks
+  logo: images/techlogos/unity.png
+  role: Współtwórca
+  timeline: "31 Styczeń 2020 - 2 Luty 2020"
+  # repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: https://bionicl.itch.io/keep-repairing-and-nobody-sinks  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Gra wykonana w Unity podczas 48 godzinnego gamejamu Polyjam 2020 w ramach Global Game Jam. Gra zdobyła nagrodę w kategorii "Grywalność".
+  tags: ["gra", "Unity", "gamejam"]
+
+- name: Silnik 3D
+  logo: images/techlogos/csharp.png
+  role: Twórca
+  timeline: "15 Kwiecień 2019 - 21 Wrzesień 2019"
+  repo: https://github.com/matyjb/GK-3D # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  # url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Projekt uczelniany polegający na zaimplementowaniu silnika graficznego 3D wraz z cieniowaniem.
+  tags: ["uczelnia", "C#", "silnik graficzny"]
