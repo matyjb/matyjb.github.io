@@ -18,18 +18,6 @@ section:
 #   filter: "academic"
 # - name: Hobby
 #   filter: "hobby"
-
-# matyjb/SilverTimetable2
-# matyjb/PolyJam-2020
-# matyjb/GK-3D
-# matyjb/opsu
-# matyjb/graphproject
-# matyjb/sudoku-flutter
-# matyjb/CellularAutomaton
-# matyjb/Lsystem
-# matyjb/chip-8-emulator - matyjb/gameboy-emulator
-# matyjb/BrainfuckInterpreter
-
 # your projects
 projects:
 - name: Plan WZIM
@@ -38,7 +26,7 @@ projects:
   timeline: "Luty 2018 - Dziś"
   # repo: "" # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: https://play.google.com/store/apps/details?id=com.silvernet.silvertimetable&hl=pl  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Aplikacja przeznaczona dla studentów oraz wykładowców Wydziału Zastosowań Informatyki i Matematyki na SGGW. Ukazuje aktualny plan zajęć dla studenta lub wykładowcy zależnie od filtrów. Wykonana w React-Native
+  summary: Aplikacja przeznaczona dla studentów oraz wykładowców Wydziału Zastosowań Informatyki i Matematyki na SGGW. Ukazuje aktualny plan zajęć dla studenta lub wykładowcy zależnie od filtrów. Wykonana w React-Native.
   tags: ["planer", "React-Native"]
 
 - name: Keep Repairing and Nobody Sinks
@@ -58,3 +46,75 @@ projects:
   # url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Projekt uczelniany polegający na zaimplementowaniu silnika graficznego 3D wraz z cieniowaniem.
   tags: ["uczelnia", "C#", "silnik graficzny"]
+
+- name: Bot do gry opsu
+  logo: images/techlogos/java.png
+  role: Twórca
+  # timeline: "15 Kwiecień 2019 - 21 Wrzesień 2019"
+  # repo: https://github.com/matyjb/opsu # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: https://www.youtube.com/watch?v=l8xVOfPFWv8  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: "..."
+  tags: [""]
+
+- name: Rysowanie grafów
+  logo: images/techlogos/csharp.png
+  role: Twórca
+  # timeline: "15 Kwiecień 2019 - 21 Wrzesień 2019"
+  repo: https://github.com/matyjb/graphproject # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  # url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: "..."
+  tags: [""]
+
+- name: Sudoku Flutter
+  logo: images/techlogos/flutter.png
+  role: Twórca
+  # timeline: "15 Kwiecień 2019 - 21 Wrzesień 2019"
+  # repo: https://github.com/matyjb/sudoku-flutter # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  # url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: "..."
+  tags: [""]
+
+- name: Cellular Automaton
+  logo: images/techlogos/csharp.png
+  role: Twórca
+  # timeline: "15 Kwiecień 2019 - 21 Wrzesień 2019"
+  # repo: https://github.com/matyjb/CellularAutomaton # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  # url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: "..."
+  tags: [""]
+
+- name: Lsystem
+  logo: images/techlogos/python.png
+  role: Twórca
+  # timeline: "15 Kwiecień 2019 - 21 Wrzesień 2019"
+  repo: https://github.com/matyjb/Lsystem # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  # url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: "..."
+  tags: [""]
+
+- name: Chip8 emulator
+  logo: images/techlogos/csharp.png
+  role: Twórca
+  # timeline: "15 Kwiecień 2019 - 21 Wrzesień 2019"
+  repo: https://github.com/matyjb/chip-8-emulator # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  # url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: "..."
+  tags: [""]
+
+- name: Gameboy emulator
+  logo: images/techlogos/csharp.png
+  role: Twórca
+  # timeline: "15 Kwiecień 2019 - 21 Wrzesień 2019"
+  # repo: https://github.com/matyjb/gameboy-emulator # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  # url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: "..."
+  tags: [""]
+
+- name: Brainfuck Interpreter
+  logo: images/techlogos/csharp.png
+  role: Twórca
+  # timeline: "15 Kwiecień 2019 - 21 Wrzesień 2019"
+  repo: https://github.com/matyjb/BrainfuckInterpreter # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  # url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: "..."
+  tags: [""]
