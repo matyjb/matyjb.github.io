@@ -41,6 +41,7 @@ params:
     main: images/logos/emblem.png
     # inverted: images/inverted-logo.png
     inverted: images/logos/emblem_bw.png
+    favicon: images/logos/emblem.png
 
   # GitHub repo URL of your site
   gitRepo: https://github.com/matyjb/matyjb.github.io
