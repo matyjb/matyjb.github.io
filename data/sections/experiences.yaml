@@ -3,10 +3,10 @@ section:
   name: Experiences
   namepl: Doświadczenie
   enable: true
-  weight: 3
-  showOnNavbar: true
+  weight: 2
+  showOnNavbar: false
   # Can optionally hide the title in sections
-  hideTitle: false
+  hideTitle: true
 
 # Your experiences
 experiences:
